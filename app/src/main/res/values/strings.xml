@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My bookings</string>
+    <string name="upcoming_trips">Upcoming trips</string>
+    <string name="past_trips">Past trips</string>
+    <string name="default_error">Something went wrong</string>
+    <string name="trip_list_trip_to">Trip to %s</string>
+    <string name="trip_list_and">and %s</string>
+    <string name="trip_list_retry">Retry</string>
+    <plurals name="trip_list_booking">
+        <item quantity="one">%d booking</item>
+        <item quantity="other">%d bookings</item>
+    </plurals>
+</resources>
